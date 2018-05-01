@@ -1,0 +1,3 @@
+[submodule "gluon-status-page-rheinbach"]
+	path = gluon-status-page-rheinbach
+	url = https://github.com/Byggvir/gluon-status-page-rheinbach.git
