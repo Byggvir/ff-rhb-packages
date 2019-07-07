@@ -43,6 +43,8 @@ if type(static) == 'table' and #static > 0 then
 else
   pcall(append_interface_servers, 'wan6')
   pcall(append_interface_servers, 'wan')
+  pcall(append_interface_servers, 'tether')
+  pcall(append_interface_servers, 'umts')
 end
 
 
